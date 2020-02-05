@@ -1,7 +1,7 @@
 # RA Work: Fall 2019 
 ## for Kevin Munger 
 
-<ins>**Project 1 Goal**:</ins> To record the birth dates of representatives in congress and the year(s) in which they served in congress.
+<ins>**Project 1 Goal**:</ins> To record the birth dates of representatives who have served congress and the year(s) in which they served for the time period between 1935-2019.
 
 *Data used comes from* :
 
@@ -10,8 +10,9 @@
   
 *Implementation:*
 
-Seperate out the senators. Extract the birth date of each representative and record it as a column. For each year between 
-1935-2019, create a column and fill in with a 0 or 1 to indicate if the representative served in congress in that year.
+Seperate out the senators. Extract the birth date of each representative from the Json and record it as a column. For each year between 1935-2019, create a column and fill in with a 0 or 1 to indicate if the representative served in congress in that year.
+
+<ins>**Project 2 Goal**:</ins> Repeat the above task but this time for senators. 
 
 <ins>**Project 3 Goal**:</ins> To record the age of all actors appearing in a film in a given year.
 
