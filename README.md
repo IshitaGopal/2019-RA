@@ -3,7 +3,7 @@
 
 <ins>**Project 1 Goal**:</ins> To record the birth dates of representatives in congress and the year(s) in which they served in congress.
 
-*Data used comes from : *
+*Data used comes from* :
 
   1. https://theunitedstates.io/congress-legislators/legislators-current.json
   2. https://theunitedstates.io/congress-legislators/legislators-historical.json
